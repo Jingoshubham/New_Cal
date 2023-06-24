@@ -91,20 +91,4 @@ body {
     color: #2773a5;
 }
 
-.circle {
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    background: linear-gradient(to top right, #ffffff33, #ffffffff);
-    position: absolute;
-}
 
-.c1 {
-    top: 100px;
-    left: 30%;
-}
-
-.c2 {
-    bottom: 200px;
-    right: 40%;
-}
